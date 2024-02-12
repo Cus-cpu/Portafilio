@@ -32,8 +32,8 @@ Creo en las soluciones sencillas: cuando una respuesta se vuelve complicada eso 
 
 
 ## Enlaces y Contacto
-- [LinkedIn](www.linkedin.com/in/marcos-rodriguez-vela)
+- [LinkedIn](https://www.linkedin.com/in/marcos-rodriguez-vela/)
 - Correo Electrónico: [marcosrodvel98@gmail.com]
 
-Agradezco tu visita a mi portafolio. Si tienes alguna pregunta o quieres colaborar, no dudes en [contactarme](marcosrodvel98@gmail.com). ¡Espero que disfrutes explorando mis proyectos!
+Agradezco tu visita a mi portafolio. Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme. ¡Espero que disfrutes explorando mis proyectos!
 
