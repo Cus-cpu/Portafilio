@@ -5,7 +5,7 @@ Los desfibriladores externos automáticos (DEA) son dispositivos electrónicos c
 Para que estos dispositivos sean realmente efectivos, su uso debe realizarse de manera inmediata. Con lo cual, es de suma importancia que cualquier persona sea capaz de usarlo sin necesidad de conocimientos previos. Por ello, estos dispositivos constan de un algoritmo predictivo de clasificación que detecta, si existe o no alguna anomalía cardiaca.
 
 # DESARROLLO
-Se van a utilizar dos [dataset] con 30 parámetros obtenidos a partir de electrocardiogramas (ECG), entre los que tenemos la amplitud, el valor medio o el área. Uno de los datasets sera el de train y otro el de test.
+Se van a utilizar dos dataset  con 30 parámetros obtenidos a partir de electrocardiogramas (ECG), entre los que tenemos la amplitud, el valor medio o el área. Uno de los datasets sera el de train y otro el de test.
 Primero se llevará a cabo un EDA donde se verá la relación entre las variables y las distribuciones de estas. 
 Posteriormente, se plantea utilizar distintos algoritmos buscando obtener el mejor parendizaje y que por tanto, prediga de forma más precisa si es necesaria realizar una descarga eléctrica. Los algoritmos usados son:
 - Regresión logística
