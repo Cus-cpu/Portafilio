@@ -17,7 +17,7 @@ He modificado los hiperparámetros iterando miles de veces haciendo uso del pipe
 # RESULTADOS
 
 Dentro del EDA lo que más destaca es la gráfica de correlación de variables. Este nos indica bastante correlación entre las variables y nuestra variable target (VF) como se puede ver en la
-[Logo de Mi Proyecto](projects/1. Desfibriladores/Matriz de correlacion.PNG)
+[Matriz de correlacion](projects/1. Desfibriladores/images/Matriz de correlacion.PNG)
 
 Para el aprendizaje se obtienen los siguientes valores de accuracy para el train, el test. También se ha incluido el área bajo la curva (AUC) que es una representación escalar del rendimiento esperado de un clasificador.
 | Modelo | Train | Test | AUC |
